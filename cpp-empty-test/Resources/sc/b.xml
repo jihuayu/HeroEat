@@ -1,0 +1,14 @@
+<dict>  
+	<key>title</key>  
+    <string>绝地求生——吃豆人</string>  
+    <key>danren</key>  
+    <string>单人游戏</string>  
+    <key>suangren</key>  
+    <string>双人游戏</string>  
+    <key>help</key>  
+    <string>帮助</string>
+	<key>exit</key>  
+    <string>退出</string>
+	<key>help1</key>  
+    <string>一号玩家使用ASDW移动，空格攻击&#x000A;二号玩家使用方向键移动，回车攻击</string>
+</dict>

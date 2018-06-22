@@ -1,0 +1,24 @@
+﻿<dict>  
+    <key>time</key>  
+    <string>游戏开始</string>  
+    <key>s</key>  
+    <string>秒</string>  
+    <key>supply</key>  
+    <string>补给离送达还有</string>
+	<key>zhangai</key>  
+    <string>离障碍物出现还有</string> 
+	<key>supplyarrival</key>  
+    <string>下次补给还要很久</string> 	
+	<key>zhangaiarrival</key>  
+    <string>下次障碍出现还要很久</string> 	 
+    <key>yinxiong</key>  
+    <string>英雄</string>  
+    <key>hp</key>  
+    <string>血量：</string>  
+    <key>attack</key>  
+    <string>攻击：</string>
+	<key>speed</key>  
+    <string>速度：</string> 
+	<key>zdnumber</key>  
+    <string>子弹数量：</string> 	
+</dict>

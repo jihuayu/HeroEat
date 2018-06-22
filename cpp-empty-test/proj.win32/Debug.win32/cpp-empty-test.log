@@ -1,0 +1,39 @@
+﻿  Copy files
+  复制了 0 个文件
+  复制了 0 个文件
+  NewCome.cpp
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\hero.h(69): warning C4305: “*=”: 从“double”到“float”截断
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\hero.h(74): warning C4305: “*=”: 从“double”到“float”截断
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.h(20): warning C4996: 'cocos2d::CCDictionary': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1099): note: 参见“cocos2d::CCDictionary”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\helloworldscene.h(62): warning C4996: 'cocos2d::CCDictionary': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1099): note: 参见“cocos2d::CCDictionary”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\helloworldscene2.h(62): warning C4996: 'cocos2d::CCDictionary': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1099): note: 参见“cocos2d::CCDictionary”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(23): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(27): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(31): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(35): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(39): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(21): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(25): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(29): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(33): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(37): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(117): warning C4996: 'cocos2d::String': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\deprecated\ccdeprecated.h(1110): note: 参见“cocos2d::String”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(117): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\2d\cclabel.h(588): note: 参见“cocos2d::Label::create”的声明
+c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\tests\cpp-empty-test\classes\newcome.cpp(124): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+  c:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\cocos\base\ccdirector.h(149): note: 参见“cocos2d::Director::sharedDirector”的声明
+  cpp-empty-test.vcxproj -> C:\cocos\cocos2d-x-3.17\cocos2d-x-3.17\build\Debug.win32\cpp-empty-test\cpp-empty-test.exe
